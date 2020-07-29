@@ -1,0 +1,16 @@
+Package: glmpi
+Title: Bootstrap prediction intervals for generalized linear models.
+Version: 0.1
+Authors@R:
+    person(given = "Patrick",
+           family = "Fournier",
+           role = c("aut", "cre"),
+           email = "fournier.patrick@uqam.ca",
+           comment = c(ORCID = "https://orcid.org/0000-0003-1992-2155"))
+Description: Bootstrap prediction intervals for generalized linear models.
+License: GPL3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Depends: R (>= 4.0)
